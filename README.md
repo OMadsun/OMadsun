@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @OMadsun
-- 👀 I’m interested in deltarune, undertale, OMORI
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in deltarune, undertale, OMORI, and ULTRAKILL
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: spamton idk
 
